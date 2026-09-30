@@ -16,3 +16,5 @@
 
 # Generated documentation
 inst/doc/
+/doc/
+/Meta/
