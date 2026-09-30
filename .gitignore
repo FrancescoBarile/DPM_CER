@@ -1,0 +1,18 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Compiled files
+*.o
+*.dll
+*.so
+*.a
+
+# R package build/check files
+*.tar.gz
+*.Rcheck/
+
+# Generated documentation
+inst/doc/
