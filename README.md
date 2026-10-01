@@ -30,6 +30,20 @@ reproduction/simulations/
 ```
 
 
+The simulation results are precomputed and included with the package for illustration in the vignette. This avoids rerunning the simulations when building the vignette.
+To load the simulation results run:
+```r
+data(cls_measures, package = "DPmCER")
+data(distance_measures, package = "DPmCER")
+data(core_periphery, package = "DPmCER")
+```
+
+To view the vignette, download the HTML file and open it in a web browser, or run:
+
+```r
+browseURL("doc/simulation-results.html")
+```
+
 
 ## Reference
 
